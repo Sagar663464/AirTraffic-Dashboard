@@ -1,10 +1,10 @@
 # Air Traffic Dashboard
 
-Aviation Industry is growing in a good rate yearly. So to monitor the overall stats, I built a dashboard using Power BI. I used tools like Power Query to tranform the data a little bit. By using this dashboard we'll be able to analyze the performance of Airline industry in the field of passenger flights. 
+Aviation Industry is growing very rapidly on a yearly basis. So to find out the actual growth, we need to visualize the data and make it easy to understand for everyone. For this visualization, I've used Power BI. By looking at the dashboard, we'll be able to understand the growth of aviation industry based on few factors. Power BI is used because it is much more convenient than any other business intelligence tools out there. There are multiple columns in this dataset, but for this visualization we'll be using only very essential ones.
 
 ## Data
 
-The columns dataset consists of : 
+It involves data from 2005 to 2015. The columns that the dataset consists of : 
  - Activity Period
  - Operating Airline
  - Operating Airline IATA Code
@@ -21,5 +21,8 @@ The columns dataset consists of :
  - Adjusted Passenger Count
  - Year
  - Month
+
+
+## Screenshot
 
 ![Screenshot 2023-11-09 163324](https://github.com/Sagar663464/AirTraffic-Dashboard/assets/65543059/a9df2bd5-781f-4992-9400-7c82740ad512)
